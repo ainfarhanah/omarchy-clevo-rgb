@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "clevo.rgb",
+  "name": "Clevo RGB Keyboard",
+  "version": "0.1.0",
+  "description": "Brightness and RGB controls for compatible Clevo keyboards",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Panel.qml"
+  },
+  "barWidget": {
+    "displayName": "Keyboard RGB",
+    "description": "Adjust keyboard brightness and color",
+    "category": "System",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  },
+  "author": "Ain Farhana H"
+}
