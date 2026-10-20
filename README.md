@@ -3,7 +3,7 @@
 A community Omarchy bar widget for single-zone Clevo keyboard backlights.
 Pick a color visually, select a preset, or fine-tune the RGB channels.
 
-![Clevo RGB Keyboard panel with color picker and presets](docs/screenshot.png)
+![Clevo RGB Keyboard panel with color picker and presets](preview.png)
 
 ## Features
 
